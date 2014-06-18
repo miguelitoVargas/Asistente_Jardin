@@ -1,2 +1,6 @@
 *.swo
 *.swp
+*.un~
+/Asistente_Jardin.cpp~
+/Asistente_Jardin.h~
+/.gitignore~
